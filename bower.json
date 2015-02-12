@@ -1,0 +1,19 @@
+{
+  "name": "e50-chosen",
+  "version": "1.0.1",
+  "authors": [
+    "Will Durney <willdurney@gmail.com>"
+  ],
+  "description": "Modification of harvesthq/chosen",
+  "license": "GPLv3",
+  "homepage": "https://github.com/Elite50/e50-chosen",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "chosen",
+    "jquery",
+    "plugin",
+    "elite50"
+  ]
+}
