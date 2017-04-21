@@ -944,9 +944,6 @@ this.container.removeClass("chosen-with-dropup");
         this.search_field.val(this.default_text);
         return this.search_field.addClass("default");
       } else {
-        if (this.is_multiple) {
-          this.search_field.val("");
-        }
         //this.search_field.val("");
         return this.search_field.removeClass("default");
       }
